@@ -1,0 +1,33 @@
+{
+  "name": "nextportfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-brands-svg-icons": "^6.5.1",
+    "@fortawesome/free-regular-svg-icons": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "framer-motion": "^10.17.0",
+    "gsap": "^3.12.4",
+    "gsap-trial": "^3.12.4",
+    "locomotive-scroll": "^5.0.0-beta.11",
+    "next": "14.0.4",
+    "next-transpile-modules": "^10.0.1",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-modal": "^3.16.1",
+    "sass": "^1.69.7",
+    "scrolltrigger": "^1.0.1",
+    "smooth-scrollbar": "^8.8.4",
+    "split-text": "^1.0.0",
+    "splittext": "^2.0.0",
+    "styled-components": "^6.1.6"
+  }
+}
