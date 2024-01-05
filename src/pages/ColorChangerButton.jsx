@@ -13,7 +13,9 @@ const ColorChangerButton = () => {
         setCurrentColorIndex(updatedColorIndex);
     };
     return (
-        <button className='social-btn social-ficon' onClick={handleButtonClick}>
+      
+        <button className='tooltip social-btn social-ficon' onClick={handleButtonClick}>
+              <div className="tooltiptext">Change Color</div>
             <FontAwesomeIcon icon={faBolt} className="social-icon fa-solid fa-bolt"/></button>
     );
 };

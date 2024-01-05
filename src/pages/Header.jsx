@@ -16,6 +16,7 @@ const Header = () => {
     <>
       <div className="container">
       <div className="social">
+       
         <ColorChangerButton />
         <button onClick={() => handleButtonClick('https://twitter.com/amardeeplaksh04')} className="social-btn">
           <FontAwesomeIcon icon={faTwitter} className="social-icon fa-brands fa-twitter" />
