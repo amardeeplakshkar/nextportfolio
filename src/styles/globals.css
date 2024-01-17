@@ -132,7 +132,7 @@ header {
 #hero-section {
   background-image: url(https://res.cloudinary.com/duscymcfc/image/upload/v1703421397/e7xjfqof2bpe6fzqrzur.png);
   background-size: cover;
-  height: 100dvh;
+  height: 100vh;
   width: 100%;
   position: relative;
   display: flex;
