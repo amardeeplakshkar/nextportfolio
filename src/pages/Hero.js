@@ -8,7 +8,7 @@ const Hero = () => {
           <div className="image-container">
             <div className="my-name">AMARDEEP</div>
             <div className="bg-blob"></div>
-            <img src="https://res.cloudinary.com/duscymcfc/image/upload/v1702175912/portfolio/y7ec7trci5ut0iuib84h.png" />
+            <img src="https://res.cloudinary.com/duscymcfc/image/upload/f_auto/v1702175912/portfolio/y7ec7trci5ut0iuib84h.png" />
           </div>
         </div>
       </div>
