@@ -25,7 +25,7 @@ const About = () => {
         <h2 id='about' className="section-head"><FontAwesomeIcon icon={faAddressCard} className="fa-solid" /> &nbsp;
           about me</h2>
         <div id="about-container">
-          <div className="about-image"><img src="https://res.cloudinary.com/duscymcfc/image/upload/v1703950330/portfolio/pu7qn2rwgy9bc6bv7xot.png" alt="Amardeep Lakshkar" /></div>
+          <div className="about-image"><img src="https://res.cloudinary.com/duscymcfc/image/upload/f_auto/v1703950330/portfolio/pu7qn2rwgy9bc6bv7xot.png" alt="Amardeep Lakshkar" /></div>
           <div className="about-content">
             <h3>Full Stack MERN Web Developer</h3>
             <h4><TextReveal content={"Madhya Pradesh Based Full Stack Developer"}/></h4>
