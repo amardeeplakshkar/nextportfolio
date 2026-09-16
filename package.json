@@ -18,7 +18,7 @@
     "gsap": "^3.12.4",
     "gsap-trial": "^3.12.4",
     "locomotive-scroll": "^5.0.0-beta.11",
-    "next": "14.0.4",
+    "next": "15.5.24",
     "next-transpile-modules": "^10.0.1",
     "react": "^18",
     "react-dom": "^18",
